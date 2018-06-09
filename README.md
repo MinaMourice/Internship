@@ -11,7 +11,7 @@
  - [Introduction](#introduction)
 
 # Introduction
-A fast, scalable and secure social ne
+
 1. [x] XAM101: Getting Started with Xamarin 
 > - [x] Installing Xamarin
 2. [ ] XAM120: Introduction to Xamarin.Forms
