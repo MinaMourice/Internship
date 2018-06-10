@@ -15,6 +15,6 @@
 1. [x] XAM101: Getting Started with Xamarin 
 > - [x] Installing Xamarin
 2. [ ] XAM120: Introduction to Xamarin.Forms
-> - [ ] Exercise 1
-> - [ ] Exercise 2
-> - [ ] Exercise 3
+> - [x] Exercise 1
+> - [x] Exercise 2
+> - [x] Exercise 3
